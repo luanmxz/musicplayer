@@ -2,6 +2,11 @@
 
 ![musicplayertela1](https://user-images.githubusercontent.com/54752531/180626522-2afefadf-2a57-4620-9b55-0bd6fb49ee94.png)
 
+## Tecnologias usadas nesse projeto:
+- JavaScript
+- HTML
+- CSS
+
 ## Funções
 - Botões de Play e Pause, quando o Play é pressionado pelo usuário, a função do JS torna o display do button None, e o display do button Pause block.
 - Botões de música anterior e posterior, caso esteja na última música disponível irá retornar para a primeira, e vice-versa.
